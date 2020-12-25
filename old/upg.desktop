@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=upgrade
+Exec=gnome-terminal -t "upgrade" -x bash -c "sh /usr/bin/upgrade.sh;"
+Icon=/usr/share/icons/hicolor/scalable/apps/upg.svg
+Terminal=true
+Type=Application
+StartupNotify=false 

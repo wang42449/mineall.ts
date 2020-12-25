@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=softwarecenter
+Exec=gnome-terminal -t "software" -x bash -c "sh /usr/bin/software.sh;"
+Icon=/usr/share/icons/hicolor/scalable/apps/soce.svg
+Terminal=true
+Type=Application
+StartupNotify=false
+
