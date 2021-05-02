@@ -1,29 +1,51 @@
-# MINEALL.TS(原名threestars-linux)
+# Q-varat (原名threestars-linux)
 
-#### 参与贡献
+参与贡献
 
-1. fork本仓库
+fork本仓库
 
-2. 长期参与开发目前在issue进行
+长期参与开发目前在issue进行
 
-#### 最新版本(Latest edition)：MINEALL.TS alpha ing
+最新版本(Latest edition)：Q-data alpha ing
 
-threestars A20暂时也会保留。存在old文件夹中
-ps:由于我对js+html+css不熟，因此开发期间可能会提交与本项目无关的代码，存在ing文件夹中
+threestars A20暂时也会保留。存在old文件夹中 ps:由于我对js+html+css不熟，因此开发期间可能会提交与本项目无关的代码，存在ing文件夹中
 
-#### 简介
-渐进式,区块组件式,可视化搭建平台,low-code,为个人和企业赋能.可以自由安装搭配扩展/区块，可以用代码进行更复杂开发,可以导入本仓库区块组件用于其它项目，还可以用可视化工具轻松搭建应用程序，致力做自由灵活的产品。
+简介
 
-####  目标
-让每个用户都能轻松创造,乐于创造.
+一切皆扩展，办公/开发资源聚合和spotlight式搜索+显示的软件。
 
-#### 理念
-软件只是一个模板,应该允许用户去自由发挥,改造软件.
+Some all in one
 
-#### 安装教程
+安装教程
 
 敬请期待
 
-#### 使用说明
+使用说明
 
 敬请期待
+
+# Q-varat (formerly threestars Linux)
+
+Participation and contribution
+
+Fork warehouse
+
+Long term participation in development is currently in issue
+
+Latest edition: q-data parsing
+
+Threestars A20 will be retained for the time being. PS in old folder: because I am not familiar with JS + HTML + CSS, I may submit code unrelated to this project during development and store it in ing folder
+
+brief introduction
+
+Everything is expanded, office / development resources aggregation and spotlight search + display software.
+
+Some all in one
+
+Installation tutorial
+
+Coming soon
+
+instructions
+
+Coming soon
